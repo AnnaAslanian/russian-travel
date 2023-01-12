@@ -1,0 +1,11 @@
+.place__content-title {
+    display: flex;
+}
+
+
+@media screen and (max-width: 320px){
+    .place__content-title {
+      flex-direction: column;
+      padding-left: 16px;
+    }
+ }

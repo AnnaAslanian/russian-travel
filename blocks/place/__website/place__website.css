@@ -1,0 +1,33 @@
+.place__website {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    padding-left: 40px;
+    padding-top: 32px;
+}
+
+
+
+@media screen and (max-width: 768px){
+    .place__website {
+       padding-top: 5px;
+    }
+}
+
+
+
+
+@media screen and (max-width: 768px){
+    .place__website:last-of-type {
+        padding-bottom: 0;
+    }
+}
+
+
+@media screen and (max-width: 320px){
+    .place__website {
+         padding: 0;
+    }
+}
+
+
