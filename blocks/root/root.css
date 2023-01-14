@@ -1,10 +1,11 @@
 .root {
-    max-width: 1280px;
+    max-width: 100%;
+    overflow-x: hidden;
     margin: 0 auto;
     padding: 0;
     background-color: #2A2C2F;
-    color: white;
-    font-family: 'Inter', 'Arial', sans-serif;
+    color: rgba(255, 255, 255, 1);
+    font-family: 'Inter', sans-serif;
     align-content: center;
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
