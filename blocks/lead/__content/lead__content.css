@@ -2,9 +2,21 @@
     padding: 64px 148px 8px 148px;
 }
 
+@media screen and (max-width: 1024px){
+    .lead__content {
+        padding: 56px 48px 0 48px;
+    }
+}
+
 @media screen and (max-width: 768px){
     .lead__content {
         padding: 56px 0 0 0;
+    }
+}
+
+@media screen and (min-width: 321px) and (max-width: 767px){
+    .lead__content {
+        padding: 40px 0 0 0;
     }
 }
 

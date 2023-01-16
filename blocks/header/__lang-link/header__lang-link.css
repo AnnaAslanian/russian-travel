@@ -13,7 +13,14 @@
     padding-right: 18px;
 }
 
-
+@media screen and (min-width: 321px) and (max-width: 600px){
+    .header__lang-link {
+        max-width: 22px;
+        font-size: 18px;
+        line-height: 20px;
+     }
+   }
+   
 @media screen and (max-width: 320px){
     .header__lang-link {
        max-width: 22px;
