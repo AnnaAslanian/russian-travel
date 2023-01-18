@@ -9,10 +9,10 @@
     padding-right: 18px;
     max-width: 100%;
     box-sizing: border-box;
+    cursor: url(../../../images/Pointer.png) 2 2, default;
 }
 
 .footer__link:hover {
-    cursor: url(../../../images/Pointer.png) 2 2, default;
     opacity: 0.5;
 }
 

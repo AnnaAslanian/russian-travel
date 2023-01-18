@@ -6,10 +6,10 @@
     line-height: 28px;
     color: rgba(255, 255, 255, 1);
     text-decoration: none;
+    cursor: url(../../../images/Pointer.png) 2 2, default;
 }
 
 .header__lang-link:hover {
-    cursor: url(../../../images/Pointer.png) 2 2, default;
     opacity: 0.5;
 }
 

@@ -8,11 +8,3 @@
     padding-left: 16px;
   }
 }
-
-
-@media screen and (max-width: 320px){
-    .place__content-title {
-      flex-direction: column;
-      padding-left: 16px;
-    }
- }
