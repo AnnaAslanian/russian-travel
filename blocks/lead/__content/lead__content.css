@@ -1,5 +1,6 @@
 .lead__content {
     padding: 64px 148px 8px 148px;
+    margin: 0;
 }
 
 @media screen and (max-width: 1024px){
@@ -14,13 +15,7 @@
     }
 }
 
-@media screen and (min-width: 321px) and (max-width: 767px){
-    .lead__content {
-        padding: 40px 0 0 0;
-    }
-}
-
-@media screen and (max-width: 320px){
+@media screen and (min-width: 320px) and (max-width: 767px){
     .lead__content {
         padding: 40px 0 0 0;
     }

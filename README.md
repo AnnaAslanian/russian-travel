@@ -18,7 +18,7 @@
 
 
 **GitHub**
-[Ссылка на GitHub](https://github.com/AnnaAslanian/russian-travel.git).
+[Ссылка на GitHub] (https://github.com/AnnaAslanian/russian-travel).
 
 
 

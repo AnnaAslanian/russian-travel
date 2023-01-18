@@ -4,9 +4,8 @@
     box-sizing: border-box;
     margin: 0 auto;
     padding: 0;
-    background-color: #2A2C2F;
     color: rgba(255, 255, 255, 1);
-    font-family: 'Inter', sans-serif;
+    font-family: 'Inter', 'Arial', sans-serif;
     align-content: center;
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
@@ -15,5 +14,3 @@
     -moz-text-size-adjust: 100%;
     text-rendering: optimizeLegibility;
   }
-
-

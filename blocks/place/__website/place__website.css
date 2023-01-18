@@ -2,37 +2,19 @@
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
-    padding-left: 40px;
-    padding-top: 32px;
+    padding: 32px 0 0 40px;
 }
 
-
-
-@media screen and (max-width: 768px){
+@media screen and (min-width: 769px) and (max-width: 1024px){
     .place__website {
-       padding-top: 5px;
+       padding: 32px 0 0 24px;
     }
 }
 
 
-
-
 @media screen and (max-width: 768px){
-    .place__website:last-of-type {
-        padding-bottom: 0;
-    }
-}
-
-@media screen and (min-width: 321px) and (max-width: 767px){
     .place__website {
-        padding: 0;
-   }
-}
-
-
-@media screen and (max-width: 320px){
-    .place__website {
-         padding: 0;
+       padding: 0;
     }
 }
 

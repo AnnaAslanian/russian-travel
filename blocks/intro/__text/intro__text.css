@@ -5,7 +5,7 @@
     line-height: 163%;
     padding: 0 0 33px 0;
     margin: 0;
-    width: 650px;
+    max-width: 690px;
     box-sizing: border-box;
 }
 
@@ -13,12 +13,5 @@
     .intro__text {
        width: 100%;
        padding: 0 16px 33px 0;
-    }
-}
-
-
-@media screen and (max-width: 320px){
-    .intro__text {
-       width: 100%;
     }
 }
