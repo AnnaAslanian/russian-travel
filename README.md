@@ -1,5 +1,5 @@
 # Проект: Путешествие по России
-[Ссылка на проект] (https://annaaslanian.github.io/russian-travel/).
+[Ссылка на проект](https://annaaslanian.github.io/russian-travel/).
 
 ### Обзор
 * Описание
