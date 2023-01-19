@@ -1,4 +1,5 @@
 # Проект: Путешествие по России
+[Ссылка на проект] (https://annaaslanian.github.io/russian-travel/).
 
 ### Обзор
 * Описание
@@ -15,10 +16,4 @@
 Блок "photo-grid" осуществлен с помощью "grid layout",
 Блок "places" осуществлен с помощью "flexbox Layout"
 Блок "cover" затемнение осуществлен с помощью "oposity".
-
-
-**GitHub**
-[Ссылка на GitHub] (https://github.com/AnnaAslanian/russian-travel/commit/61ac44e087e54e360f0894f2a284c01f24de37b8).
-
-
 
