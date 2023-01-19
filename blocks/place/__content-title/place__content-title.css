@@ -1,10 +1,12 @@
 .place__content-title {
     display: flex;
+    align-items: flex-end;
 }
 
 @media screen and (min-width: 320px) and (max-width: 767px){
   .place__content-title {
     flex-direction: column;
+    align-items: flex-start;
     padding-left: 16px;
   }
 }
